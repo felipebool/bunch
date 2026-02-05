@@ -37,7 +37,7 @@ A hobby, you asked? I Collect links.
 - https://vishnubharathi.codes/archives/
 - https://lethain.com/
 - https://infraeng.dev/
-- https://antirez.com/latest/0 (o mano que criou o redis)
+- https://antirez.com/latest/0 (redis creator)
 - https://dwarvesf.hashnode.dev/tag/go
 - http://xunitpatterns.com/index.html
 - https://appliedgo.net/
@@ -47,10 +47,10 @@ A hobby, you asked? I Collect links.
 - https://antithesis.com/resources/reliability_glossary/
 - https://herbertograca.com/
 - https://www.hillside.net/
-- http://www.laputan.org/ (o mano que escreveu o big ball of mud)
+- http://www.laputan.org/ (the guy who wrote big ball of mud)
 - https://www.dreamsongs.org/
 - http://laputan.org/catfish/
-- https://www.industrialempathy.com/ (muito bom, o about dele é sinistro)
+- https://www.industrialempathy.com/ (pretty good)
 - https://research.google/blog
 - https://blog.thecodewhisperer.com/series
 - https://blog.jbrains.ca/archive
